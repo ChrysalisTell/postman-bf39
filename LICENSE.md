@@ -1,4 +1,4 @@
-# 
+# new JetBrains IntelliJ IDEA PC版 插件 是最佳 JetBrains IntelliJ IDEA PC版 插件，集成 冲突解决 和 代码分析。安全、可靠、优化，性能最大化。
 
 
 
